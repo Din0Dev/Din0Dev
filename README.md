@@ -43,26 +43,6 @@ I'm Hai (Hong Hai), I'm front-end developer !
 
 </div>
 
-**Check out my GitHub repository:**
-
-<div>
-  <p>
-    <a href="https://github.com/Din0Dev/travel-template">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Din0dev&repo=travel-template" alt="GitHub Stats" />
-    </a>
-    </p>
-    <p>
-    <a href="https://github.com/Din0Dev/tech-view">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Din0dev&repo=tech-view" alt="GitHub Stats" />
-    </a>
-    </p>
-    <p>
-        <a href="https://github.com/Din0Dev/nft-dragon">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Din0dev&repo=nft-dragon" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:honghai251.info@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
